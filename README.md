@@ -4,11 +4,11 @@
 
 ## Build Setup
 
-# install dependencies
+#### Install dependencies
 yarn
 
-# serve with
+#### Serve with nodemon
 yarn dev
 
-# json-server (mock data)
+#### json-server (mock data)
 yarn json:server
